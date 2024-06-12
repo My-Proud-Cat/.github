@@ -17,10 +17,17 @@
 <br>
 
 ## Stack
+### Frontend
 - Language : JavaScript, HTML/CSS
 - Library & Framework : React, Styled-Components, Axios, Recoil, Router
 - Tool : Github, Notion, Figma
 - etc : eslint, prettier
+
+### Backend
+- Language :
+- Library & Framework :
+- Tool :
+- etc :
 
 <br>
 
