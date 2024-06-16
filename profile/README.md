@@ -1,5 +1,6 @@
 # 🐈 고양이 커뮤니티 '야옹타운'
-![야옹타운](https://github.com/My-Proud-Cat/frontend/assets/89441627/01595b6b-5ef3-4ff7-9b37-22705d47ce6c)
+![고양이](https://github.com/My-Proud-Cat/frontend/assets/89441627/abd779d3-f44d-40c4-b597-54c2dee1360c)
+
 
 ## 📖 프로젝트 소개
 **고양이 커뮤니티 '야옹타운'입니다 !** <br>
@@ -28,7 +29,7 @@
 ### Frontend
 - Language : JavaScript, HTML/CSS
 - Library & Framework : React, Styled-Components, Axios, Recoil, Router
-- Tool : Figma
+- Tool : Visual Studio code, Photoshop, Figma
 - etc : eslint, prettier
 
 ### Backend
@@ -38,9 +39,17 @@
 
 ### Collaboration 
 - Github, Notion, Swagger
+
 <br>
 
 ## 🐈‍⬛ UI
+
+![목록 페이지](https://github.com/My-Proud-Cat/frontend/assets/89441627/49e94e78-d2de-42b3-8f3a-6a0ea6df1f33)
+![글쓰기 페이지](https://github.com/My-Proud-Cat/frontend/assets/89441627/ccb8de75-39d7-4d4b-aa4d-4ffb7d9d79d6)
+![상세 페이지](https://github.com/My-Proud-Cat/frontend/assets/89441627/a982cce0-1d24-4538-ad7a-3932235a5e80)
+![팝업](https://github.com/My-Proud-Cat/frontend/assets/89441627/cb106274-c746-4553-8e88-248aca4fbcaa)
+
+<br>
 
 ## 📊 ERD 다이어그램
 
