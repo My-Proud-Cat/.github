@@ -24,10 +24,9 @@
 - etc : eslint, prettier
 
 ### Backend
-- Language :
-- Library & Framework :
-- Tool :
-- etc :
+- Language : Java 17
+- Library & Framework : Spring Boot 3.0.7, JWT, Spring Security, QueryDSL, MySQL 8.0, JPA, Redis
+- Tool : Github, Notion, Intellij
 
 <br>
 
